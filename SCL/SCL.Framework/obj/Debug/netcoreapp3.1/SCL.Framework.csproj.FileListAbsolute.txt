@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\SCL\SCL.Framework\bin\Debug\netcoreapp3.1\SCL.Framework.deps.json
+C:\Users\Admin\Desktop\SCL\SCL.Framework\bin\Debug\netcoreapp3.1\SCL.Framework.dll
+C:\Users\Admin\Desktop\SCL\SCL.Framework\bin\Debug\netcoreapp3.1\SCL.Framework.pdb
+C:\Users\Admin\Desktop\SCL\SCL.Framework\bin\Debug\netcoreapp3.1\SCL.Data.dll
+C:\Users\Admin\Desktop\SCL\SCL.Framework\bin\Debug\netcoreapp3.1\SCL.Data.pdb
+C:\Users\Admin\Desktop\SCL\SCL.Framework\obj\Debug\netcoreapp3.1\SCL.Framework.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SCL\SCL.Framework\obj\Debug\netcoreapp3.1\SCL.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SCL\SCL.Framework\obj\Debug\netcoreapp3.1\SCL.Framework.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SCL\SCL.Framework\obj\Debug\netcoreapp3.1\SCL.Framework.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SCL\SCL.Framework\obj\Debug\netcoreapp3.1\SCL.Framework.csproj.CopyComplete
+C:\Users\Admin\Desktop\SCL\SCL.Framework\obj\Debug\netcoreapp3.1\SCL.Framework.dll
+C:\Users\Admin\Desktop\SCL\SCL.Framework\obj\Debug\netcoreapp3.1\SCL.Framework.pdb

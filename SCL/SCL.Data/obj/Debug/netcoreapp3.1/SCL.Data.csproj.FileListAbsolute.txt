@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\SCL\SCL.Data\bin\Debug\netcoreapp3.1\SCL.Data.deps.json
+C:\Users\Admin\Desktop\SCL\SCL.Data\bin\Debug\netcoreapp3.1\SCL.Data.dll
+C:\Users\Admin\Desktop\SCL\SCL.Data\bin\Debug\netcoreapp3.1\SCL.Data.pdb
+C:\Users\Admin\Desktop\SCL\SCL.Data\obj\Debug\netcoreapp3.1\SCL.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SCL\SCL.Data\obj\Debug\netcoreapp3.1\SCL.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SCL\SCL.Data\obj\Debug\netcoreapp3.1\SCL.Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SCL\SCL.Data\obj\Debug\netcoreapp3.1\SCL.Data.dll
+C:\Users\Admin\Desktop\SCL\SCL.Data\obj\Debug\netcoreapp3.1\SCL.Data.pdb
